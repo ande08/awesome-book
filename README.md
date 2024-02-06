@@ -2,4 +2,3 @@
 Mini tutorial for bookdown 
 
 
-afdafadjl
